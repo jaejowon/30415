@@ -1,0 +1,12 @@
+body{
+  margin: 0px;
+}
+
+.navbar {
+  display: flex;
+  background-color: pink;
+}
+
+p{
+  padding: 10px;
+}
